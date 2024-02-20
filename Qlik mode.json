@@ -1,0 +1,31 @@
+
+SHEETS
+{"qInfo":{"qId":"gSPgdGm","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"gSPgdGm","approved":false,"published":false,"owner":"t7qICSb9Hzvy9If7COqCwQbyKXYDy1Z04gGuUK2-2Yk","ownerId":"651f904400f6867dd9b646cc","createdDate":"2024-02-13T07:17:38.473Z","modifiedDate":"2024-02-20T10:08:32.583Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"hmL","type":"table","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
+{"name":"yNXYY","type":"action-button","col":0,"row":6,"colspan":12,"rowspan":6,"bounds":{"y":50,"x":0,"width":50,"height":50}}
+
+DIMENSIONS
+
+MEASURES
+
+VARIABLES
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":10,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":1,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":10,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"Player","qCardinal":88,"qTags":["$ascii","$text"],"qSrcTables":["versioncontrol"]}
+{"qName":"Country","qCardinal":10,"qTags":["$ascii","$text"],"qSrcTables":["versioncontrol"]}
+{"qName":"Inns","qCardinal":74,"qTags":["$numeric","$integer"],"qSrcTables":["versioncontrol"]}
+{"qName":"NO","qCardinal":58,"qTags":["$numeric","$integer"],"qSrcTables":["versioncontrol"]}
+{"qName":"HS","qCardinal":72,"qTags":["$ascii","$text"],"qSrcTables":["versioncontrol"]}
+{"qName":"BF","qCardinal":88,"qTags":["$numeric","$integer"],"qSrcTables":["versioncontrol"]}
+{"qName":"_100","qCardinal":45,"qTags":["$numeric","$integer"],"qSrcTables":["versioncontrol"]}
+{"qName":"_50","qCardinal":49,"qTags":["$numeric","$integer"],"qSrcTables":["versioncontrol"]}
+{"qName":"_0","qCardinal":32,"qTags":["$numeric","$integer"],"qSrcTables":["versioncontrol"]}
+{"qName":"_6s","qCardinal":80,"qTags":["$numeric","$integer"],"qSrcTables":["versioncontrol"]}
